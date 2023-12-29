@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918638238336', '𝞒𝙔𝙐𝞗𝞙𝞘𝞘𝞜', true],
-  ['919365580498', '𝙔𝙐𝙈𝙄𝙆𝘼', true], 
+  ['918402887115', '𝞒𝙔𝙐𝞗𝞙𝞘𝞘𝞜', true],
+  ['918638238336', '𝙔𝙐𝙈𝙄𝙆𝘼', true], 
   [''] 
 ] //Number of owners
 
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝞒𝙔𝙐𝞗𝞙𝞘𝞘𝞜'
+global.botname = 'GRAVEYARD'
 global.premium = 'true'
-global.packname = '𝞒𝙔𝙐𝞗𝞙𝞘𝞘𝞜' 
+global.packname = 'GRAVEYARD' 
 global.author = '@ryuokiin' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/ryuokiin\n' 
